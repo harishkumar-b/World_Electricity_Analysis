@@ -5,7 +5,7 @@
 - The project involves data wrangling on the data pulled from World Bank, loading the transformed data to the database, retrieving required data using SQL and visualising insights on Excel according to the problem statement. 
 
 ## About dataset:
-- Datasets are from world bank APIs in json and csv formats. The following is the schema and metadata of datasets.
+- Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets.
 ![](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Raw%20data/meta_data.jpg)
 
 ## Tech stack used:
@@ -18,7 +18,7 @@
 - [World_Electricity_Analysis.sql](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Code/World_Electricity_Analysis.sql)
 
 ## Snapshot of the visualisation:
-- Below is a snapshot of excel dashboard.
+- Below is a snapshot of the excel dashboard.
 ![](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Visualization/Snapshot%20of%20visualization.jpg)
 - Try functionalities on [Excel](https://1drv.ms/x/s!AtJBPwn-s0lbqGZKQiKfv5fnVWta?e=hzBJ2h).
 
