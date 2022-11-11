@@ -40,4 +40,4 @@
 - [Harish](https://www.linkedin.com/in/harish-kumar-bommadene/).
 - [Vishal]().
 - [Sujit]().
-- [Anoop]().
+- [Anoop](https://www.linkedin.com/in/anoop-kumar-3715a221b/).
