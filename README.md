@@ -23,7 +23,7 @@
 - Try functionalities on [Excel](https://1drv.ms/x/s!AtJBPwn-s0lbqGZKQiKfv5fnVWta?e=hzBJ2h).
 
 ## Presentation of the analysis:
-- [Presentation](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Visualization/World_Electricity_Analysis_Slides.pdf).
+- [Presentation](https://1drv.ms/p/s!AtJBPwn-s0lbqU8vHdHB4Kzka8DQ?e=EIUbmZ).
 
 ## Key insights:
 - Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
