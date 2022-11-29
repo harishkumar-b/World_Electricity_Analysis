@@ -83,3 +83,12 @@ join production_by_renewable as r
 on n.Country_Code=r.country_code and n.Year_column = r.Year_column
 group by cast(concat('01-01-',cast(o.Year_Column as nvarchar)) as date)
 order by cast(concat('01-01-',cast(o.Year_Column as nvarchar))as date);
+---OR--
+select cast(concat('01-01-',cast(o.Year_Column as nvarchar)) as date) as Year_Column, avg(o.Value_Column) as 'avg%_production_of_electricity_by_oil', avg(n.Value_Column) as'avg%_production_of_electricity_by_nuclear', sum(r.Value_Column) as 'kWh_production_of_electricity_by_renewable'
+from production_by_oil as o
+join production_by_nuclear as n
+on o.Country_Code=n.Country_Code and o.Year_column = n.Year_column
+join production_by_renewable as r
+on n.Country_Code=r.country_code and n.Year_column = r.Year_column
+group by cast(concat('01-01-',cast(o.Year_Column as nvarchar)) as date)
+order by cast(concat('01-01-',cast(o.Year_Column as nvarchar))as date);
