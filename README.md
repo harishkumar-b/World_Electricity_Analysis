@@ -23,14 +23,14 @@
 - Try functionalities on [Excel](https://1drv.ms/x/s!AtJBPwn-s0lbqGZKQiKfv5fnVWta?e=hzBJ2h).
 ---
 ## Presentation of the analysis:
-- [Presentation](https://1drv.ms/p/s!AtJBPwn-s0lbqU8vHdHB4Kzka8DQ?e=EIUbmZ).
+- [Presentation](https://1drv.ms/p/s!AtJBPwn-s0lbqG3tsKAIRxmVKuzd?e=qyiVaV).
 ---
 ## Key insights:
 - Countries with more than 75% access to rural electricity have more than doubled to 193 countries in 2020 from 92 countries in 1990.
 - Production through nuclear power has been in increasing trend from the 1970s to 1990s.
 - North American, European & Central Asian regions have been dominant in electricity production from nuclear energy throughout the evolution.
 - High Income Group countries contribute to more than 70% of production through nuclear energy.
-- Production through oil sources has been on a declining trend since the mid-1960s, which can be attributed to environmental concerns and awareness.
+- Production through oil sources has been on a slight declining trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
 - Production through renewable sources has seen a sharp increasing trend since the mid-1970s, which can be attributed to environmental concerns and awareness.
 - An insight can be drawn that dependency on oil-based production can attract losses in electricity distribution.
 - An insight can be drawn that inefficiency or the least access to electricity can attract losses.
