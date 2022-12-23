@@ -6,7 +6,7 @@
 ---
 ## About dataset:
 - Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets.
-![](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Raw%20data/meta_data.jpg)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d158597-98c7-481a-8673-5633d1809adb/meta_data.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T071552Z&X-Amz-Expires=86400&X-Amz-Signature=d5e2db46944756eee34c3781d998536d98afa1c59a64a4f54375f5c27e0b206b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22meta_data.jpg%22&x-id=GetObject)
 ---
 ## Tech stack used:
 - Python & Pandas(for data wrangling).
@@ -19,7 +19,7 @@
 ---
 ## Snapshot of the visualisation:
 - Below is a snapshot of the excel dashboard.
-![](https://github.com/harishkumar-b/World_Electricity_Analysis/blob/main/Visualization/Snapshot%20of%20visualization.jpg)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/982fbbe3-281d-4404-b7df-1e2a21d4ac45/Snapshot_of_visualization.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T071654Z&X-Amz-Expires=86400&X-Amz-Signature=bb50d00d5296c776d04651b38d55b097f4cee3415eccecc9bc1099640c0241d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Snapshot%2520of%2520visualization.jpg%22&x-id=GetObject)
 - Try functionalities on [Excel](https://1drv.ms/x/s!AtJBPwn-s0lbqGZKQiKfv5fnVWta?e=hzBJ2h).
 ---
 ## Presentation of the analysis:
