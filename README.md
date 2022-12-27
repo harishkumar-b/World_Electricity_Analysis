@@ -5,7 +5,7 @@
 - The project involves data wrangling on the data pulled from World Bank, loading the transformed data to the database, retrieving required data using SQL and visualising insights on Excel according to the problem statement. 
 ---
 ## About dataset:
-- Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of dataset.
+- Datasets are from world bank APIs in JSON and CSV formats. The following are the metadata of dataset.
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de361f34-8b69-41e2-a01e-adecab59a8ad/metadata.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221227T154837Z&X-Amz-Expires=86400&X-Amz-Signature=f099386693924e3cdcc40622458e520616e896dda7fb4220dc58daa66ef017e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22metadata.jpg%22&x-id=GetObject)
 ---
 ## Tech stack used:
