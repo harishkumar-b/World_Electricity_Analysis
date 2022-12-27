@@ -6,7 +6,7 @@
 ---
 ## About dataset:
 - Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets.
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d158597-98c7-481a-8673-5633d1809adb/meta_data.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T071552Z&X-Amz-Expires=86400&X-Amz-Signature=d5e2db46944756eee34c3781d998536d98afa1c59a64a4f54375f5c27e0b206b&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22meta_data.jpg%22&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de361f34-8b69-41e2-a01e-adecab59a8ad/metadata.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221227T154837Z&X-Amz-Expires=86400&X-Amz-Signature=f099386693924e3cdcc40622458e520616e896dda7fb4220dc58daa66ef017e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22metadata.jpg%22&x-id=GetObject)
 ---
 ## Tech stack used:
 - Python & Pandas(for data wrangling).
