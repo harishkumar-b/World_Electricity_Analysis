@@ -5,7 +5,7 @@
 - The project involves data wrangling on the data pulled from World Bank, loading the transformed data to the database, retrieving required data using SQL and visualising insights on Excel according to the problem statement. 
 ---
 ## About dataset:
-- Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of datasets.
+- Datasets are from world bank APIs in JSON and CSV formats. The following are the schema and metadata of dataset.
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de361f34-8b69-41e2-a01e-adecab59a8ad/metadata.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221227%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221227T154837Z&X-Amz-Expires=86400&X-Amz-Signature=f099386693924e3cdcc40622458e520616e896dda7fb4220dc58daa66ef017e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22metadata.jpg%22&x-id=GetObject)
 ---
 ## Tech stack used:
@@ -19,6 +19,7 @@
 ---
 ## Snapshot of the visualisation:
 - Below is a snapshot of the excel dashboard.
+
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/982fbbe3-281d-4404-b7df-1e2a21d4ac45/Snapshot_of_visualization.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221223T071654Z&X-Amz-Expires=86400&X-Amz-Signature=bb50d00d5296c776d04651b38d55b097f4cee3415eccecc9bc1099640c0241d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Snapshot%2520of%2520visualization.jpg%22&x-id=GetObject)
 - Try functionalities on [Excel](https://1drv.ms/x/s!AtJBPwn-s0lbqGZKQiKfv5fnVWta?e=hzBJ2h).
 ---
